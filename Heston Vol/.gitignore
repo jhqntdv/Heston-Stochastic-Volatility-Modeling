@@ -1,0 +1,17 @@
+# Python virtual environments & bytecode
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Core model source and test suite (DO NOT PUSH - PROTECTED)
+heston.py
+*.py
+tests/
+
+# uv & test environment files
+pyproject.toml
+uv.lock
+.python-version
+pytest.ini
