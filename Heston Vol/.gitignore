@@ -5,9 +5,7 @@ __pycache__/
 .pytest_cache/
 .ipynb_checkpoints/
 
-# Core model source and test suite (DO NOT PUSH - PROTECTED)
-heston.py
-*.py
+# Test suite (DO NOT PUSH)
 tests/
 
 # uv & test environment files
