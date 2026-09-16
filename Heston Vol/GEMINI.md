@@ -1,0 +1,1 @@
+always reply traditional chinese in chat conversation but for writing and coding use english.
